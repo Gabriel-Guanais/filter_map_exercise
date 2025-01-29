@@ -1,3 +1,5 @@
+# 3. Somar os números de uma lista (com reduce)
+
 from functools import reduce
 
 number_list = [1, 2, 3, 4, 5, 6,]
